@@ -66,6 +66,9 @@
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
         </a>
+           <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+        </a>
     </div>
 </div>
 
@@ -98,7 +101,7 @@
     </div>
 </div>
 
-## Software and Tools
+## Design and Other Tools
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
