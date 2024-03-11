@@ -5,11 +5,16 @@
 
 - 🔭 I’m currently working on **Anunfi App Web - A web application for classified ads which will expel Wallapop from the market ;)**
 
+- 🌱 I'm delving deeper into **Angular, Typescript and Javascript and looking for learning React.**
+
+- 👯 I'm open to collaborating **as a volunteer on open-source projects, within the developer community, or for the environment and other social causes. Please PM me if you have any proposals.**
+
 - 👨‍💻 All of my projects are available at [https://fromerodev.github.io/](https://fromerodev.github.io/)
+
+- "Ask me about **entrepreneurship, startups, or developing software to tackle real-world problems.**
 
 - 📫 How to reach me **DM me on Linkedin or Email.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fromfsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fromfsdev" height="30" width="40" /></a>
 </p>
@@ -20,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fromerodev&show_icons=true&locale=en&layout=compact" alt="fromerodev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fromerodev&show_icons=true&locale=en" alt="fromerodev" /></p>
-
