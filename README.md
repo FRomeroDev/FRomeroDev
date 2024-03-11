@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fromerodev.github.io/](https://fromerodev.github.io/)
 
-- 💬 Ask me about collaborating on **entrepreneurship, startups, or developing software to tackle real-world problems.**
+- 💬 Ask me about collaborating on **entrepreneurship, startups, or developing software to tackle real-world problems.I'm very focused on this.**
 
 - 📫 Reach me at **DM me on Linkedin or Email.**
 
