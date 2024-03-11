@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I´m Fernando Romero</h1>
+<h1 align="center">Hi 👋 I´m Fernando</h1>
 <h3 align="center">I'm a database's lover junior full-stack developer based in Spain, passionate about combining robust code with elegant design and great user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fromerodev&label=Profile%20views&color=0e75b6&style=flat" alt="fromerodev" /> </p>
@@ -13,7 +13,7 @@
 
 - ❔Ask me about **entrepreneurship, startups, or developing software to tackle real-world problems.**
 
-- 📫 How to reach me **DM me on Linkedin or Email.**
+- 📫 How to reach me? **DM me on Linkedin or Email.**
 
 <p align="left">
 <a href="https://linkedin.com/in/fromfsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fromfsdev" height="30" width="40" /></a>
