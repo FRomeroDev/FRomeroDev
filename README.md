@@ -50,6 +50,7 @@
            <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
         </a>
+    </div>
 </div>
 
 ## Frontend Development
@@ -107,7 +108,6 @@
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
         </a>
-    
     </div>
 </div>
 
