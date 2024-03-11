@@ -106,7 +106,7 @@
             </p>
         </div>
     </div>
-
+  </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fromerodev&show_icons=true&locale=en&layout=compact" alt="fromerodev" /></p>
 
