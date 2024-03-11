@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://fromerodev.github.io/](https://fromerodev.github.io/)
 
-- ❔Ask me about **entrepreneurship, startups, or developing software to tackle real-world problems.**
+- 💬 Ask me about collaborating on **entrepreneurship, startups, or developing software to tackle real-world problems.**
 
-- 📫 How to reach me? **DM me on Linkedin or Email.**
+- 📫 Reach me at **DM me on Linkedin or Email.**
 
 <p align="left">
 <a href="https://linkedin.com/in/fromfsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fromfsdev" height="30" width="40" /></a>
