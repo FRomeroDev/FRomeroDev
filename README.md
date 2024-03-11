@@ -111,10 +111,10 @@
     </div>
 </div>
 
-
-
-
+<div style="display: flex;">
+    <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fromerodev&show_icons=true&locale=en&layout=compact" alt="fromerodev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fromerodev&show_icons=true&locale=en" alt="fromerodev" /></p>
+</div>
