@@ -101,16 +101,23 @@
            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
         </a>
+        <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+          <img src="https://techicons.dev/icons/azuredevops.svg" alt="Azure DevOps" width="40" height="40"/>
+        </a>
     </div>
 </div>
 
-## Design and Other Tools
+## Tools
 
 <div style="display: flex;">
     <div style="background-color: #333; padding: 10px; border-radius: 5px; margin-right: 10px;">
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-        </a>
+ 
+        <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/378786/chrome-devtools.svg" alt="Chrome DevTools" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
     </div>
 </div>
 
