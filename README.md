@@ -101,7 +101,6 @@
            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
         </a>
-        <br>
         <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
           <img src="https://github.com/user-attachments/assets/39f39b2e-6ab0-43df-b268-9c12cf38d903" alt="Azure DevOps" width="40" height="40"/>
         </a>
