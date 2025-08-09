@@ -9,7 +9,7 @@
 
 - 👯 I'm open to collaborating **as a volunteer on open-source projects, within the developer community, or for the environment and other social causes. Please PM me if you have any proposals.**
 
-- 👨‍💻 All of my projects are available at [https://fromerodev.github.io/](https://fromerodev.github.io/)
+- 👨‍💻 All of my projects are available at [new portfolio in progress)
 
 - 💬 Ask me about collaborating on **entrepreneurship, startups, or developing software to tackle real-world problems.I'm very focused on this.**
 
