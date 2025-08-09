@@ -69,6 +69,9 @@
            <a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
         </a>
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/>
+       </a>
     </div>
 </div>
 
